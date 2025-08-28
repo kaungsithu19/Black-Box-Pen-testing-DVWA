@@ -1,5 +1,3 @@
-```text
 /robots.txt
 /index.php
 /phpmyadmin
-```
