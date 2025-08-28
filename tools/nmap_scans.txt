@@ -1,8 +1,6 @@
-```text
 Nmap scan report for 192.168.56.108
 PORT     STATE SERVICE    VERSION
 21/tcp   open  vsftpd     FTP Server
 22/tcp   open  ssh        OpenSSH 7.9
 80/tcp   open  http       Apache HTTP Server
 3306/tcp open  mysql      MySQL 5.7
-````
